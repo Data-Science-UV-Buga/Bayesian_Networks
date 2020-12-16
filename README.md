@@ -1,3 +1,3 @@
 # Bayesian_Networks
 
-Sample on how to using bayesian Networks solving the monty hall problem, using the library pomegranate.
+Sample on how to use bayesian Networks for solving the Monty Hall problem, using the library pomegranate.
